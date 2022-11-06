@@ -10,7 +10,7 @@ The data sources are pre-processed and parsed removing zero or null records. The
 # React-Native Mobile Application
 Cross platform app development framework used for developing mobile front-end and designed with CSS.
 # System Architecture
-![Architecture](./image/systemArchOverviewDiagram-Thesis.png)
+![Architecture](./image/SystemArchOverviewDiagram-Thesis.png)
 
 # App Screenshots
 # App Overview (left) and Warning Level (right)
